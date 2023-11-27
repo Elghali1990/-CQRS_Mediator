@@ -1,0 +1,11 @@
+E:\CQRS_Mediator\PostLand.Domain\PostLand.Domain\bin\Debug\net8.0\PostLand.Domain.deps.json
+E:\CQRS_Mediator\PostLand.Domain\PostLand.Domain\bin\Debug\net8.0\PostLand.Domain.dll
+E:\CQRS_Mediator\PostLand.Domain\PostLand.Domain\bin\Debug\net8.0\PostLand.Domain.pdb
+E:\CQRS_Mediator\PostLand.Domain\PostLand.Domain\obj\Debug\net8.0\PostLand.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\CQRS_Mediator\PostLand.Domain\PostLand.Domain\obj\Debug\net8.0\PostLand.Domain.AssemblyInfoInputs.cache
+E:\CQRS_Mediator\PostLand.Domain\PostLand.Domain\obj\Debug\net8.0\PostLand.Domain.AssemblyInfo.cs
+E:\CQRS_Mediator\PostLand.Domain\PostLand.Domain\obj\Debug\net8.0\PostLand.Domain.csproj.CoreCompileInputs.cache
+E:\CQRS_Mediator\PostLand.Domain\PostLand.Domain\obj\Debug\net8.0\PostLand.Domain.dll
+E:\CQRS_Mediator\PostLand.Domain\PostLand.Domain\obj\Debug\net8.0\refint\PostLand.Domain.dll
+E:\CQRS_Mediator\PostLand.Domain\PostLand.Domain\obj\Debug\net8.0\PostLand.Domain.pdb
+E:\CQRS_Mediator\PostLand.Domain\PostLand.Domain\obj\Debug\net8.0\ref\PostLand.Domain.dll

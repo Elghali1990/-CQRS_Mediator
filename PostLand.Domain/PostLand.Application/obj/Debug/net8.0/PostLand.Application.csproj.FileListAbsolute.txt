@@ -1,0 +1,15 @@
+E:\CQRS_Mediator\PostLand.Domain\PostLand.Application\bin\Debug\net8.0\PostLand.Application.deps.json
+E:\CQRS_Mediator\PostLand.Domain\PostLand.Application\bin\Debug\net8.0\PostLand.Application.dll
+E:\CQRS_Mediator\PostLand.Domain\PostLand.Application\bin\Debug\net8.0\PostLand.Application.pdb
+E:\CQRS_Mediator\PostLand.Domain\PostLand.Application\bin\Debug\net8.0\PostLand.Domain.dll
+E:\CQRS_Mediator\PostLand.Domain\PostLand.Application\bin\Debug\net8.0\PostLand.Domain.pdb
+E:\CQRS_Mediator\PostLand.Domain\PostLand.Application\obj\Debug\net8.0\PostLand.Application.csproj.AssemblyReference.cache
+E:\CQRS_Mediator\PostLand.Domain\PostLand.Application\obj\Debug\net8.0\PostLand.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\CQRS_Mediator\PostLand.Domain\PostLand.Application\obj\Debug\net8.0\PostLand.Application.AssemblyInfoInputs.cache
+E:\CQRS_Mediator\PostLand.Domain\PostLand.Application\obj\Debug\net8.0\PostLand.Application.AssemblyInfo.cs
+E:\CQRS_Mediator\PostLand.Domain\PostLand.Application\obj\Debug\net8.0\PostLand.Application.csproj.CoreCompileInputs.cache
+E:\CQRS_Mediator\PostLand.Domain\PostLand.Application\obj\Debug\net8.0\PostLand.Application.csproj.CopyComplete
+E:\CQRS_Mediator\PostLand.Domain\PostLand.Application\obj\Debug\net8.0\PostLand.Application.dll
+E:\CQRS_Mediator\PostLand.Domain\PostLand.Application\obj\Debug\net8.0\refint\PostLand.Application.dll
+E:\CQRS_Mediator\PostLand.Domain\PostLand.Application\obj\Debug\net8.0\PostLand.Application.pdb
+E:\CQRS_Mediator\PostLand.Domain\PostLand.Application\obj\Debug\net8.0\ref\PostLand.Application.dll
