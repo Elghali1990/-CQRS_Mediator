@@ -9,3 +9,15 @@ E:\CQRS_Mediator\PostLand.Domain\PostLand.Domain\obj\Debug\net8.0\PostLand.Domai
 E:\CQRS_Mediator\PostLand.Domain\PostLand.Domain\obj\Debug\net8.0\refint\PostLand.Domain.dll
 E:\CQRS_Mediator\PostLand.Domain\PostLand.Domain\obj\Debug\net8.0\PostLand.Domain.pdb
 E:\CQRS_Mediator\PostLand.Domain\PostLand.Domain\obj\Debug\net8.0\ref\PostLand.Domain.dll
+F:\API\-CQRS_Mediator\PostLand.Domain\PostLand.Domain\bin\Debug\net8.0\PostLand.Domain.deps.json
+F:\API\-CQRS_Mediator\PostLand.Domain\PostLand.Domain\bin\Debug\net8.0\PostLand.Domain.dll
+F:\API\-CQRS_Mediator\PostLand.Domain\PostLand.Domain\bin\Debug\net8.0\PostLand.Domain.pdb
+F:\API\-CQRS_Mediator\PostLand.Domain\PostLand.Domain\obj\Debug\net8.0\PostLand.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\API\-CQRS_Mediator\PostLand.Domain\PostLand.Domain\obj\Debug\net8.0\PostLand.Domain.AssemblyInfoInputs.cache
+F:\API\-CQRS_Mediator\PostLand.Domain\PostLand.Domain\obj\Debug\net8.0\PostLand.Domain.AssemblyInfo.cs
+F:\API\-CQRS_Mediator\PostLand.Domain\PostLand.Domain\obj\Debug\net8.0\PostLand.Domain.csproj.CoreCompileInputs.cache
+F:\API\-CQRS_Mediator\PostLand.Domain\PostLand.Domain\obj\Debug\net8.0\PostLand.Domain.sourcelink.json
+F:\API\-CQRS_Mediator\PostLand.Domain\PostLand.Domain\obj\Debug\net8.0\PostLand.Domain.dll
+F:\API\-CQRS_Mediator\PostLand.Domain\PostLand.Domain\obj\Debug\net8.0\refint\PostLand.Domain.dll
+F:\API\-CQRS_Mediator\PostLand.Domain\PostLand.Domain\obj\Debug\net8.0\PostLand.Domain.pdb
+F:\API\-CQRS_Mediator\PostLand.Domain\PostLand.Domain\obj\Debug\net8.0\ref\PostLand.Domain.dll
